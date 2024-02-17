@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 import jdk.internal.org.jline.utils.Log;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import testBase.BaseClass;
 
 public class TC_001_AccountRegisttrationTest extends BaseClass {
 
@@ -31,7 +32,7 @@ public class TC_001_AccountRegisttrationTest extends BaseClass {
 		regPage.setConfirmPassword(pwd);
 		regPage.setPrivacyPolicy();
 		regPage.clickContinue();
-		logger.info("clicked on continue");
+		logger.info("clicked oncontinue");
 		logger.info("validating expected message....");
 		Assert.assertEquals(regPage.getConfirmationMsg(), "Your Account Has Been Created!");	
 		

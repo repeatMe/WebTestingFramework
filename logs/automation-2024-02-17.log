@@ -1,0 +1,51 @@
+17:05:55.618 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\offic\eclipse-workspace\openCartWebFramework\testng.xml"
+17:05:55.783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\offic\eclipse-workspace\openCartWebFramework\testng.xml
+
+17:05:57.947 [main] INFO  testCases.TC_001_AccountRegisttrationTest - ***** starting TC_001_AccountRegisttrationTest *******
+17:05:57.947 [main] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs start..
+17:05:58.012 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on my  account link
+17:05:58.340 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on Register link
+17:06:01.057 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked oncontinue
+17:06:01.057 [main] INFO  testCases.TC_001_AccountRegisttrationTest - validating expected message....
+17:06:01.085 [main] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs ending...
+17:06:01.085 [main] INFO  testCases.TC_001_AccountRegisttrationTest - ****Finished TC_001_AccountRegisttrationTest*****
+17:08:08.978 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\offic\eclipse-workspace\openCartWebFramework\crossbrowser.xml"
+17:08:38.928 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\offic\eclipse-workspace\openCartWebFramework\crossbrowser.xml"
+17:08:39.091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\offic\eclipse-workspace\openCartWebFramework\crossbrowser.xml
+
+17:08:41.012 [main] INFO  testCases.TC_001_AccountRegisttrationTest - ***** starting TC_001_AccountRegisttrationTest *******
+17:08:41.012 [main] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs start..
+17:08:41.069 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on my  account link
+17:08:41.392 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on Register link
+17:08:44.054 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked oncontinue
+17:08:44.054 [main] INFO  testCases.TC_001_AccountRegisttrationTest - validating expected message....
+17:08:44.081 [main] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs ending...
+17:08:44.081 [main] INFO  testCases.TC_001_AccountRegisttrationTest - ****Finished TC_001_AccountRegisttrationTest*****
+17:08:48.860 [main] INFO  testCases.TC_001_AccountRegisttrationTest - ***** starting TC_001_AccountRegisttrationTest *******
+17:08:48.861 [main] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs start..
+17:08:48.913 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on my  account link
+17:08:49.170 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on Register link
+17:08:53.083 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked oncontinue
+17:08:53.083 [main] INFO  testCases.TC_001_AccountRegisttrationTest - validating expected message....
+17:08:53.111 [main] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs ending...
+17:08:53.111 [main] INFO  testCases.TC_001_AccountRegisttrationTest - ****Finished TC_001_AccountRegisttrationTest*****
+17:09:29.510 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\offic\eclipse-workspace\openCartWebFramework\crossbrowser.xml"
+17:09:29.674 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\offic\eclipse-workspace\openCartWebFramework\crossbrowser.xml
+
+17:09:31.513 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - ***** starting TC_001_AccountRegisttrationTest *******
+17:09:31.514 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs start..
+17:09:31.570 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on my  account link
+17:09:31.847 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on Register link
+17:09:33.562 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - ***** starting TC_001_AccountRegisttrationTest *******
+17:09:33.562 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs start..
+17:09:33.609 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on my  account link
+17:09:33.920 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on Register link
+17:09:34.733 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - clicked oncontinue
+17:09:34.733 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - validating expected message....
+17:09:34.762 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs ending...
+17:09:34.763 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - ****Finished TC_001_AccountRegisttrationTest*****
+17:09:36.618 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - clicked oncontinue
+17:09:36.618 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - validating expected message....
