@@ -1,22 +1,40 @@
-17:09:36.644 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs ending...
-17:09:36.647 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - ****Finished TC_001_AccountRegisttrationTest*****
-17:19:45.852 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\offic\eclipse-workspace\openCartWebFramework\crossbrowser.xml"
-17:19:46.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\offic\eclipse-workspace\openCartWebFramework\crossbrowser.xml
+18:19:46.288 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:19:46.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:19:46.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:19:46.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:19:46.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:19:46.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:19:46.294 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:19:46.299 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\offic\AppData\Local\Temp\testng-eclipse--1827825083\testng-customsuite.xml
 
-17:19:47.921 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - ***** starting TC_001_AccountRegisttrationTest *******
-17:19:47.925 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs start..
-17:19:47.988 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on my  account link
-17:19:48.257 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on Register link
-17:19:50.661 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - ***** starting TC_001_AccountRegisttrationTest *******
-17:19:50.661 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs start..
-17:19:50.705 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on my  account link
-17:19:51.017 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on Register link
-17:19:51.568 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - clicked oncontinue
-17:19:51.569 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - validating expected message....
-17:19:51.595 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs ending...
-17:19:51.595 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisttrationTest - ****Finished TC_001_AccountRegisttrationTest*****
-17:19:53.721 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - clicked oncontinue
-17:19:53.721 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - validating expected message....
-17:19:53.747 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs ending...
-17:19:53.747 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisttrationTest - ****Finished TC_001_AccountRegisttrationTest*****
+18:19:46.314 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+18:19:46.389 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6cbcf243: 13 ms
+18:19:46.422 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1d7f7be7: 33 ms
+18:19:46.431 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@768ccdc5: 9 ms
+18:19:46.439 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@b40bb6e: 7 ms
+18:19:46.444 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5bf22f18: 5 ms
+18:19:46.450 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@741b3bc3: 6 ms
+18:19:46.450 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2ed3b1f5: 0 ms
+18:22:14.965 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\offic\eclipse-workspace\openCartWebFramework\testng.xml"
+18:22:15.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\offic\eclipse-workspace\openCartWebFramework\testng.xml
+
+18:22:51.428 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\offic\eclipse-workspace\openCartWebFramework\testng.xml"
+18:22:51.590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\offic\eclipse-workspace\openCartWebFramework\testng.xml
+
+18:22:53.706 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest***
+18:22:53.706 [main] DEBUG testCases.TC_002_LoginTest - Capturing application debug
+18:22:54.025 [main] INFO  testCases.TC_002_LoginTest - Navigating to the login page
+18:22:54.468 [main] INFO  testCases.TC_002_LoginTest - user clicked on login button.
+18:22:54.507 [main] INFO  testCases.TC_002_LoginTest - login test passsed.
+18:22:54.507 [main] INFO  testCases.TC_002_LoginTest - ***Finished TC_002_LoginTest ****
+18:22:57.721 [main] INFO  testCases.TC_001_AccountRegisttrationTest - ***** starting TC_001_AccountRegisttrationTest *******
+18:22:57.721 [main] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs start..
+18:22:57.764 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on my  account link
+18:22:58.043 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked on Register link
+18:23:00.731 [main] INFO  testCases.TC_001_AccountRegisttrationTest - clicked oncontinue
+18:23:00.731 [main] INFO  testCases.TC_001_AccountRegisttrationTest - validating expected message....
+18:23:00.757 [main] DEBUG testCases.TC_001_AccountRegisttrationTest - application logs ending...
+18:23:00.758 [main] INFO  testCases.TC_001_AccountRegisttrationTest - ****Finished TC_001_AccountRegisttrationTest*****
