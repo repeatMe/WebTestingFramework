@@ -1,0 +1,57 @@
+21:14:32.899 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:14:33.241 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:14:43.271 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:14:43.271 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:14:43.271 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:14:43.487 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:14:43.861 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:14:53.898 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:14:53.899 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:14:53.899 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:14:54.663 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:14:54.947 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:15:05.019 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:15:05.020 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:15:05.020 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:15:05.258 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:15:05.592 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:15:15.594 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:15:15.595 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:15:15.595 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:15:15.848 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:15:16.189 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:15:26.202 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:15:26.203 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:15:26.203 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:15:26.431 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:15:26.905 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:15:36.943 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:15:36.944 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:15:36.944 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:15:37.471 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:15:37.923 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:15:47.970 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:15:47.971 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:15:47.971 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:15:48.564 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:15:48.890 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:15:58.930 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:15:58.931 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:15:58.931 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:16:05.268 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:16:06.191 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:16:16.233 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:16:16.234 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:16:16.234 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:16:18.072 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:16:20.135 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:16:30.181 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:16:30.181 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:16:30.181 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:16:31.285 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:16:31.590 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
+21:16:41.607 [main] INFO  testCases.TC_003_LoginTestDD - ***Finished TC_003_LoginTest ****
+21:16:41.608 [main] INFO  testCases.TC_003_LoginTestDD - ***Starting TC_002_LoginTestDD***
+21:16:41.608 [main] DEBUG testCases.TC_003_LoginTestDD - Capturing application debug
+21:16:44.563 [main] INFO  testCases.TC_003_LoginTestDD - Navigating to the login page
+21:16:47.331 [main] INFO  testCases.TC_003_LoginTestDD - user clicked on login button.
