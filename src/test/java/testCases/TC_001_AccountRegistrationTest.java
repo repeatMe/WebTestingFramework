@@ -8,9 +8,9 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_001_AccountRegisttrationTest extends BaseClass {
+public class TC_001_AccountRegistrationTest extends BaseClass {
 
-	@Test
+	@Test(groups= {"sanity","regression","master"})
 	public void verify_account_registration() {
 		
     logger.info("***** starting TC_001_AccountRegisttrationTest *******");

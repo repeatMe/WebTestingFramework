@@ -26,6 +26,7 @@ public class TC_002_LoginTest extends BaseClass{
 		logger.info("user clicked on login button.");
 		MyAccountPage map=new MyAccountPage(driver);
 		boolean targetPage=map.isMyAccountPageExists();
+		
 	Assert.assertTrue(targetPage);
 	if(targetPage=true) {
 		logger.info("login test passsed.");
